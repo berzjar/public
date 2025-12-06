@@ -1,5 +1,5 @@
 /*
-Task 3 :  Gift Bag
+Task 4 :  Gift Bag
 Santa Claus is preparing his gift bag and checking the prices of 
 different toys. The toy prices (real numbers) are entered from the 
 keyboard. When 0 is entered, it means the magical toy list is finished.
