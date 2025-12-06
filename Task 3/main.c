@@ -1,5 +1,4 @@
 /*
-
 Task 3 :  Santa’s Number-Trimming Magic
 Santa has a four-digit number written on his list. He wants to create a new two-digit number by
 removing the two middle digits from the original number — a little Christmas magic to help shorten 
