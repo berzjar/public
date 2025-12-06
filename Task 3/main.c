@@ -12,14 +12,9 @@ Help Santa tidy up his list before Christmas Eve!
 #include <stdio.h>
 
 int main () {
-    int number;
+    char number[4];
     printf("Whats the number?\n");
-    scanf("%i",&number);
-    number = (number % 1000) /10;
-
-
-    printf("Lucky number is %i",number);
-    getchar();
-    getchar();
+    scanf("%4s",&number);
+    printf("Magic number is: %c%c",number[0],number[3]);
     return 0;
 }
